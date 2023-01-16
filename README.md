@@ -20,5 +20,6 @@ To deploy this project run
 
 **Client:** React
 
-**Server:**Node, Express
+
+**Server:** Node, Express
 
